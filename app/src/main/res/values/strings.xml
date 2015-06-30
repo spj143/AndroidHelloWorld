@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloAndroidWeekend</string>
+
+    <string name="hello">Hello !!! Guys</string>
+    <string name="welcome">Welcome to Android Weekend Class</string>
+    <string name="action_settings">Settings</string>
+</resources>
